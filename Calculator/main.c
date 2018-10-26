@@ -12,5 +12,6 @@ int main ()
 {
     printf("a+b= %d\n", addition(2,8));
     printf ("a-b=%d\n",sous(5,4))
+    printf("chatte\n");
     return 0;
 }
