@@ -8,6 +8,6 @@ int addition(int a , int b)
 
 int main ()
 {
-    printf("b+a= %d\n", addition(1,8));
+    printf("a+b= %d\n", addition(1,8));
     return 0;
 }
