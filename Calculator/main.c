@@ -10,7 +10,7 @@ int sous (int a, int b)
 
 int main ()
 {
-    printf("a+b= %d\n", addition(1,8));
-    printf ("a-b=%d\n",sous(1,4))
+    printf("a+b= %d\n", addition(2,8));
+    printf ("a-b=%d\n",sous(5,4))
     return 0;
 }
